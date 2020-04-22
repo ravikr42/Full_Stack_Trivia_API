@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Trivia" uuid="67153887-2ad1-427e-b9b3-d7ff11e17c5a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/trivia</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Trivia_Test" uuid="5dc6f048-14ca-4a7a-8c43-c1f2d0f777c0">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/trivia_test</jdbc-url>
+    </data-source>
+  </component>
+</project>
